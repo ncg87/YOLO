@@ -1,0 +1,7 @@
+path: C:\Users\Nicko\vscodeprojects\deep_learning_practice\Yolo\YOLO\face detector\dataset # dataset path
+train: images/train # train images path relative to dataset path
+val: images/val # val images path relative to dataset path
+
+# Classes
+names:
+  0: face
