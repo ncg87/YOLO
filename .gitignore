@@ -1,0 +1,6 @@
+*.jpg
+*.txt
+*.pt
+*.pth
+*.cache
+/labels
